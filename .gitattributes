@@ -32,6 +32,22 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# ECL source file
+*.E100 linguist-detectable=true
+*.E100 linguist-documentation=false
+*.E100 linguist-language=ECL
+*.ecl linguist-detectable=true
+*.ecl linguist-documentation=false
+*.ecl linguist-language=ECL
+*.Ecl linguist-detectable=true
+*.Ecl linguist-documentation=false
+*.Ecl linguist-language=ECL
+*.grdecl linguist-detectable=true
+*.grdecl linguist-documentation=false
+*.grdecl linguist-language=ECL
+*.GRDECL linguist-detectable=true
+*.GRDECL linguist-documentation=false
+*.GRDECL linguist-language=ECL
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +177,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Friday, August 2nd at 08:05 pm PST)
+# Line count (including blank lines and compiler line): 190
+
 # End of script
